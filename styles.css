@@ -48,6 +48,7 @@
 	justify-content: center;
 	list-style: none;
 	flex-wrap: wrap;
+	align-items: center;
 }
 
 /* end Flexbox Part 3 */
