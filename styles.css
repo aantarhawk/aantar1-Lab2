@@ -57,7 +57,7 @@
 /* Grid Part 1 */
 
 #grid-section1 .grid {
-
+	display: grid;
 }
 
 /* end Grid Part 1 */
