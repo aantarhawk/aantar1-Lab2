@@ -41,11 +41,12 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	
 }
 
 #flex-section3 .tags ul {
-
+	display: flex; 
+	justify-content: center;
+	list-style: none;
 }
 
 /* end Flexbox Part 3 */
